@@ -1,8 +1,8 @@
-# Cluster-Analysis
+# Cluster Analysis
 
-Cluster analysis plays an important role in the exploratory data analysis turn. Under the unsupervised learning paradigm, clustering is one of the main cores that runs data segmentation and patterns detection.
+Cluster analysis plays an important role in exploratory data analysis, data preprocessing, and unsupervised learning tasks. Here, we'll find two notebooks: [Cluster Analysis.ipynb](https://github.com/alexandrehsd/Cluster-Analysis/blob/master/Cluster%20Analysis.ipynb) and [Silhouette Analysis.ipynb](https://github.com/alexandrehsd/Cluster-Analysis/blob/master/Silhouette%20Analysis.ipynb)
 
-In the notebook, we address questions like:
+[Cluster Analysis.ipynb](https://github.com/alexandrehsd/Cluster-Analysis/blob/master/Cluster%20Analysis.ipynb) addresses questions like:
 
   1. How to perform cluster analysis using the K-Means technique?
   2. How to find the optimal number of clusters?
@@ -10,3 +10,5 @@ In the notebook, we address questions like:
   4. Why and when do we need standardize the data?
   5. Which are the pros and cons of using K-Means?
   6. How to interpret the results?
+
+[Silhouette Analysis.ipynb](https://github.com/alexandrehsd/Cluster-Analysis/blob/master/Silhouette%20Analysis.ipynb) talks about alternative ways of choosing the optimal number of clusters for the K-Means algorithm. More specifically, it shows how to perform silhouette analysis and plot the decision boundaries of K-Means for 2-dimensional data. 
